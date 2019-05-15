@@ -1,0 +1,15 @@
+.Content {
+  margin-top: 50px;
+}
+.counter__box {
+  border: 1px solid #d6d6d6;
+}
+.counter__increment {
+  padding: 30px 15px 15px;
+}
+.counter__buttons {
+  border-top: .5px solid #d6d6d6;
+}
+.btn-lg {
+  border-radius: 0!important;
+}
